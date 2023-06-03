@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmosWang0626
+- 👋 Hi, I’m Amos Wang
 - 👀 I’m interested in DevOps
 - 📫 How to reach me daoyuan0626@gmail.com
 
